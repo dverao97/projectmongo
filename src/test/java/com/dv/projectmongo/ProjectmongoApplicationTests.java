@@ -1,10 +1,10 @@
-package com.dv.projectomongo;
+package com.dv.projectmongo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectoMongoApplicationTests {
+class ProjectmongoApplicationTests {
 
 	@Test
 	void contextLoads() {
