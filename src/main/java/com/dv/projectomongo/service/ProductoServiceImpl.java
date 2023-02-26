@@ -1,8 +1,7 @@
-package com.dv.projectmongo.service;
+package com.dv.projectomongo.service;
 
-
-import com.dv.projectmongo.model.Producto;
-import com.dv.projectmongo.repository.ProductoRepository;
+import com.dv.projectomongo.model.Producto;
+import com.dv.projectomongo.repository.ProductoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Service;

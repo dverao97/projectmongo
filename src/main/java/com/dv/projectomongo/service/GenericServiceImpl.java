@@ -1,4 +1,4 @@
-package com.dv.projectmongo.service;
+package com.dv.projectomongo.service;
 
 import org.springframework.data.repository.CrudRepository;
 

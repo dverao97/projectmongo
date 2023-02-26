@@ -1,9 +1,8 @@
-package com.dv.projectmongo.controller;
+package com.dv.projectomongo.controller;
 
 
-
-import com.dv.projectmongo.model.Producto;
-import com.dv.projectmongo.service.ProductoService;
+import com.dv.projectomongo.model.Producto;
+import com.dv.projectomongo.service.ProductoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
 import org.springframework.http.HttpStatus;

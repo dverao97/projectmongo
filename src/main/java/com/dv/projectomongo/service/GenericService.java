@@ -1,4 +1,4 @@
-package com.dv.projectmongo.service;
+package com.dv.projectomongo.service;
 
 import java.io.Serializable;
 import java.util.List;
